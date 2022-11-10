@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3x1EIGYu90qqk1Jm3YALCOM6g/Lz8f9aNsgy6qmwC67XFi8SVGIZiZIxQkZd87cl8kc/zNQG3zS3nfN3eoe/9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\red__\\Desktop\\KatmanAdmin\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\red__\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\red__\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\red__\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
